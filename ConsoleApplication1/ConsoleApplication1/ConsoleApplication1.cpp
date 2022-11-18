@@ -24,7 +24,7 @@ public:
 	void rysowanie();
 };
 
-void Gra::rysowanie() {
+void Gra::rysowanie() {	
 	if (licznik2 == 0) {
 		cout << "    --------    " << endl;
 		cout << "   |       |    " << endl;
